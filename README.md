@@ -1,2 +1,2 @@
-# Resume-using-HTML
-Created my resume using only HTML
+# Resume-using-HTML-CSS
+Created my resume using only HTML&CSS
